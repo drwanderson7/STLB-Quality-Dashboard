@@ -1,4 +1,4 @@
-import DashboardFrame from '@/components/DashboardFrame';
+import DashboardFrame from '../components/DashboardFrame';
 
 export default function Home() {
   return (
